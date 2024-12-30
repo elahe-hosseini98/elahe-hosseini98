@@ -5,7 +5,7 @@ Welcome to my GitHub, where creativity meets AI and algorithms! 🚀
 
 ## 🌟 About Me
 I'm passionate about **developing cool projects for fun** and exploring ways to integrate **AI** into everything I build.  
-With a **Master’s in AI** and plans to start my **PhD in Software Engineering and AI** soon, I'm on a journey to uncover the extraordinary potential of algorithms and optimization.
+I have a **Master’s in AI**, and hopefully, I will start my **PhD in Software Engineering and AI** soon. I'm on a journey to uncover the extraordinary potential of algorithms and optimization.
 
 Right now, I’m in a **mandatory pause** in my professional career (a tough transition, but I’m making the most of it!). To stay sharp, I’ve been diving into **personal projects**—check out my latest experiments in the **repositories section**!  
 
