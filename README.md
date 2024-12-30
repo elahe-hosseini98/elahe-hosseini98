@@ -13,7 +13,7 @@ Right now, I’m in a **mandatory pause** in my professional career (a tough tra
 
 ## 💡 What I Do
 I believe the reason I was born is to someday invent a **fantastic algorithm**. Until then, I:
-- Build random **cool projects** and enhance them using **AI**.  
+- Build **cool projects** and enhance them using **AI**.  
 - Focus on **automation**, **algorithm design**, and making ideas come alive.  
 - Learn and experiment with **optimization techniques**, even when they leave me in tears.  
 
