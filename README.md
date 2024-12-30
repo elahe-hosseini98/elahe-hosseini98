@@ -28,7 +28,7 @@ I believe the reason I was born is to someday invent a **fantastic algorithm**. 
 
 ## 🌱 Fun Facts
 - 🎧 I can walk for hours listening to **true crime podcasts**.  
-- 🎨 I admire **art and artists**, though I lack artistic skills myself (unless **cooking** counts—I’m a great cook!).  
+- 🎨 I admire **art and artists**, though I lack artistic skills myself (unless **cooking** counts—I’m a great cook btw!).  
 - 🧠 I obsess over how to optimize **algorithms** and dream of creating something groundbreaking someday.  
 
 ---
