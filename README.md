@@ -35,8 +35,8 @@ I believe the reason I was born is to someday invent a **fantastic algorithm**. 
 
 ## 📫 Let’s Connect!
 - [Email Me](mailto:elahe.s.hs98@gmail.com)  
-- [LinkedIn]([https://linkedin.com/in/YourLinkedInHandle](https://www.linkedin.com/in/elaheh-hosseini-5a018a13a/)  
-- [Google Scholar]([https://yourwebsite.com](https://scholar.google.com/citations?user=e_HZ8PQAAAAJ&hl=en))  
+- [LinkedIn](https://www.linkedin.com/in/elaheh-hosseini-5a018a13a/)  
+- [Google Scholar](https://scholar.google.com/citations?user=e_HZ8PQAAAAJ&hl=en)  
 
 ---
 
