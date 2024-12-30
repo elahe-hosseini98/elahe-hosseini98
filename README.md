@@ -41,9 +41,9 @@ I believe the reason I was born is to someday invent a **fantastic algorithm**. 
 ---
 
 ## 📈 GitHub Stats
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elahe-hosseini98&show_icons=true&theme=shadow_red)
+![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elahe-hosseini98&show_icons=true)
 
 ---
 
 ## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elahe-hosseini98&layout=compact&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elahe-hosseini98&layout=compact)
