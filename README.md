@@ -33,8 +33,6 @@ I believe the reason I was born is to someday invent a **fantastic algorithm**. 
 
 ---
 
----
-
 ## 🌟 Closing Thoughts
 
 As I navigate the ups and downs of life, I find strength in these words of poetry, reminding me to stand tall in the face of challenges. Here's a beautiful Persian poem with its English translation:
