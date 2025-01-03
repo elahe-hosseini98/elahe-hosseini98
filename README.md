@@ -33,6 +33,28 @@ I believe the reason I was born is to someday invent a **fantastic algorithm**. 
 
 ---
 
+---
+
+## 🌟 Closing Thoughts
+
+As I navigate the ups and downs of life, I find strength in these words of poetry, reminding me to stand tall in the face of challenges. Here's a beautiful Persian poem with its English translation:
+
+ایستاده‌ام، ایستاده‌ام              | I am standing, I am standing,  
+به فردایی که خواهد آمد،            | For the tomorrow that will come,  
+به خورشیدی که پشت ابرهاست         | For the sun hidden behind the clouds,  
+و به دستانی که خالی نیستند.        | And for hands that are not empty.  
+
+اگرچه طوفان خشمگین است،           | Though the storm is fierce,  
+اگرچه شب تاریک است،               | Though the night is dark,  
+اما من هنوز می‌دانم،                 | Yet I still know,  
+که بذر نور                           | That the seeds of light  
+در دل هر سیاهی نهفته است.          | Are hidden within every darkness.  
+
+
+🌟 Remember, no matter how challenging the journey becomes, the seeds of light are always there, waiting to bloom.
+
+---
+
 ## 📫 Let’s Connect!
 - [Email Me](mailto:elahe.s.hs98@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/elaheh-hosseini-5a018a13a/)  
