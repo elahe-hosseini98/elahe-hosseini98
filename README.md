@@ -1,5 +1,5 @@
 # Hi there, I'm Elaheh Hosseini (Eli)! 👋  
-Welcome to my GitHub, where creativity meets AI and algorithms! 🚀
+Welcome to my GitHub! 🚀
 
 ---
 
