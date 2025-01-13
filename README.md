@@ -4,7 +4,7 @@ Welcome to my GitHub page! 🚀
 ---
 
 ## 🌟 About Me
-I'm a **computer science enthusiast** with a passion for **developing cool projects just for fun** and finding innovative ways to integrate **AI** into everything I create. I hold a **Master’s in Artificial Intelligence**, and I’m eagerly preparing to start my **PhD in Software Engineering and AI**. My journey revolves around exploring the extraordinary potential of **algorithms**, **optimization**, and pushing the boundaries of what's possible with technology.
+I'm a **computer science enthusiast** with a passion for **developing fun projects** and finding innovative ways to integrate **AI** into everything I create. I hold a **Master’s in Artificial Intelligence**, and I’m eagerly preparing to start my **PhD in Software Engineering and AI**. My journey revolves around exploring the extraordinary potential of **algorithms**, **optimization**, and pushing the boundaries of what's possible with technology.
 
 
 Right now, I’m in a **mandatory pause** in my professional career (a tough transition, but I’m making the most of it!). To stay sharp, I’ve been diving into **personal projects**—check out my latest experiments in the **repositories section**!  
@@ -39,7 +39,7 @@ As I navigate the ups and downs of life, I find strength in these words of poetr
 
 ایستاده‌ام، ایستاده‌ام              | I am standing, I am standing  
 به فردایی که خواهد آمد،            | For the tomorrow that will come  
-به خورشیدی که پشت ابرهاست         | For the sun hidden behind the clouds  
+به خورشیدی که پشت ابرهاست،         | For the sun hidden behind the clouds  
 و به دستانی که خالی نیستند.        | And for hands that are not empty 
 
 اگرچه طوفان خشمگین است،           | Though the storm is fierce  
