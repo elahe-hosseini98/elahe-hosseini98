@@ -1,4 +1,4 @@
-# Hi there, I'm Elaheh Hosseini (Eli)! 👋  
+# Hi there, I'm Ell Hosseini! 👋  
 Welcome to my GitHub page! 🚀
 
 ---
