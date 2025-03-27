@@ -1,4 +1,4 @@
-# Hi there, I'm Ell Hosseini! 👋  
+# Hi there, I'm Ell! 👋  
 Welcome to my GitHub page! 🚀
 
 ---
